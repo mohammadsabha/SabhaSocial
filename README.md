@@ -24,3 +24,8 @@ Responsive Design: A responsive and visually appealing user interface that adapt
 <h2>Contribute:</h2>
 
 Contributions and feedback are welcome! Feel free to fork the repository, submit issues, or contribute to the development of SabhaSocial.
+
+<hr>
+
+![Alt Text](Home01.png)
+
