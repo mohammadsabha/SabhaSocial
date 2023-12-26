@@ -27,5 +27,5 @@ Contributions and feedback are welcome! Feel free to fork the repository, submit
 
 <hr>
 
-![Alt Text](public/assets/New%20folder/Home01.png)
+![Alt Text](/public/assets/New%20folder/Home01.png)
 
